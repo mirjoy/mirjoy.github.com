@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: the stabby lamda
+tagline: learning code, line by line
 ---
 {% include JB/setup %}
 
