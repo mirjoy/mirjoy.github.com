@@ -23,9 +23,21 @@ h1, h2, h3, h4 {
   color: #84b15d;
 }
 
+#navbar, #jb-navbar-collapse, .navbar-brand {
+  background-color: #4B4162 !important;
+  border-color: #4B4162 !important;
+}   
+
+#jb-navbar-collapse a {
+  color: #BAD3A4 !important;
+}
+
+.navbar-brand {
+  color: #BAD3A4 !important;
+} 
 
 #footer {
-  background-color: #fdcd60;
+  background-color: #A39996;
 }
 
 
