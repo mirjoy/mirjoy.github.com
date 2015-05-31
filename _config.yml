@@ -1,0 +1,11 @@
+# Site settings
+title: the stabby lambda
+email: mirjoy.moser@gmail.com
+description: "fun with code, one day at a time"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "github.mirjoy.io" # the base hostname & protocol for your site
+twitter_username: mirjoymoser
+github_username:  mirjoy
+
+# Build settings
+markdown: kramdown
