@@ -9,9 +9,11 @@ About Me:
 * 2015 Turing School grad
 
 Interests include but are not limited to:
+
 * Node
 * Processing
 * PaperJS
 
 Current Fun Project:
-Generating sewing patterns based on a user's measurements
+
+* Generating sewing patterns based on a user's measurements
