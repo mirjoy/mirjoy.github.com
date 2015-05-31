@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-About Me:
 
 * Ruby Developer interested in sharing what I've learned with others
 * 2015 Turing School grad
@@ -13,7 +12,7 @@ Interests include but are not limited to:
 * Node
 * Processing
 * PaperJS
-* Canvas
+* HTML5 Canvas
 
 Current Fun Project:
 
