@@ -3,9 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+About Me:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+* Ruby Developer interested in sharing what I've learned with others
+* 2015 Turing School grad
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Interests include but are not limited to:
+* Node
+* Processing
+* PaperJS
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Current Fun Project:
+Generating sewing patterns based on a user's measurements
