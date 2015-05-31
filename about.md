@@ -13,6 +13,7 @@ Interests include but are not limited to:
 * Node
 * Processing
 * PaperJS
+* Canvas
 
 Current Fun Project:
 
